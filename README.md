@@ -1,3 +1,3 @@
 # Implementation and Analysis of Simon & Speck Lighteight Ciphers
 
-In this repository we have implemented Simon64/128 and Speck64/128. 
+In this repository I have implemented Simon64/128 and Speck64/128. 
